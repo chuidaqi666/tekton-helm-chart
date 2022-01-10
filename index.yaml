@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  tekton-pipeline:
+    - apiVersion: v1
+      appVersion: 0.27.0
+      description: A Helm chart for Tekton Pipelines
+      home: https://harbor.chuidaqi.cn/chartrepo/chart_repo
+      icon: https://avatars2.githubusercontent.com/u/47602533
+      name: tekton-pipeline
+      urls:
+        - tekton-pipeline-0.27.2.tgz
+      version: 0.27.2
